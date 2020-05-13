@@ -2,7 +2,7 @@
 using namespace std;
 
 template <class T>
-class SegTree<T>
+class SegTree
 {
 private:
     vector<T> tree;
